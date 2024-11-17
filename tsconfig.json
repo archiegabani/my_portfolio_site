@@ -1,0 +1,13 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    "types": ["@testing-library/jest-dom", "@types/jest"],
+    "skipLibCheck": true,
+    "noUnusedLocals": false,
+    "noEmitOnError": false,
+  },
+}

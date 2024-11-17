@@ -5,5 +5,6 @@
 Open a terminal and download the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/archie-portfolio-site.git
+git clone https://github.com/archiegabani/my_portfolio_site.git
 cd archie_gabani_ui_garden
+
